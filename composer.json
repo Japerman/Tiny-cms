@@ -1,0 +1,22 @@
+{
+    "name": "tinycms/tiny",
+    "description": "A simple flat-file CMS powered by PHP, Markdown and Blade templates.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jose Perez",
+            "email": "japerman@gmail.com"
+        }
+    ],
+    "require": {
+        "tinycms/framework": "1.*",
+        "vlucas/phpdotenv": "^2.4",
+        "monolog/monolog": "^1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tiny\\": "src/"
+        }
+    }
+}
