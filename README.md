@@ -1,5 +1,5 @@
 # Tiny-cms
 https://github.com/Japerman/Tiny-cms
 
-## Composer
+# Composer
 composer create-project tinycms/tiny
