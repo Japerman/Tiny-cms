@@ -1,4 +1,4 @@
-# Tiny-cms
+# Tiny-cms (Markdown Generator)
 https://github.com/Japerman/Tiny-cms
 
 # Composer
